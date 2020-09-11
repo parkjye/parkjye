@@ -1,9 +1,6 @@
-### 안녕하세요👋
 <!-- 아이콘 표기: &show_icons=true
-   숨기기: &hide=contribs,prs,stars ...
--->
-   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkjye&theme=buefy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)   
+   숨기기: &hide=contribs,prs,stars ... -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkjye&theme=buefy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Badge -->
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parkjye.github.io/)](https://parkjye.github.io/)
