@@ -5,23 +5,13 @@
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkjye&theme=buefy&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)   
 
-<!-- HITS (https://hits.seeyoufarm.com) -->
+<!-- Badge -->
 <div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjye&count_bg=%23944DFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>   
+   
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/parkjye)](https://github.com/parkjye)
 
+<!-- HITS (https://hits.seeyoufarm.com) -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjye&count_bg=%23944DFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
 
-<!--
-**parkjye/parkjye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
