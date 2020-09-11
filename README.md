@@ -10,6 +10,3 @@
 
 <!-- HITS (https://hits.seeyoufarm.com) -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjye&count_bg=%23944DFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/></a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjye&repo=github-readme-stats)](https://github.com/parkjye/github-readme-stats)
-
